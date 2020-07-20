@@ -1,0 +1,4 @@
+# profile
+---
+permalink: /index.html
+---
